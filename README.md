@@ -25,7 +25,7 @@
 }
 
 2.2 Weather data API'
-- Path: `POST /api/auth/register`  
+- Path: `POST /api/weather/data`  
 - Description: Getting Weather Information in the System.  
 - Request Body (JSON):
 {
